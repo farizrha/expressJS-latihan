@@ -37,7 +37,7 @@ router.get('/chicken', (req, res) => {
     res.send({
         foodName: 'Fried Chicken',
         availability: 60,
-        price: 10
+        price: 15
     });
 });
 
